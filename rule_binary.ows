@@ -5,7 +5,7 @@
 		<node id="1" name="Data Table" position="(300, 150)" project_name="Orange3" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table" version="" />
 		<node id="2" name="CN2 Rule Induction" position="(299.0, 54.0)" project_name="Orange3" qualified_name="Orange.widgets.model.owrules.OWRuleLearner" title="CN2 Rule Induction" version="" />
 		<node id="3" name="Test and Score" position="(526.0, 142.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owtestlearners.OWTestLearners" title="Test and Score" version="" />
-		<node id="4" name="Confusion Matrix" position="(679.0, 139.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owconfusionmatrix.OWConfusionMatrix" title="Confusion Matrix" version="" />
+		<node id="4" name="Confusion Matrix" position="(689.0, 142.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owconfusionmatrix.OWConfusionMatrix" title="Confusion Matrix" version="" />
 	</nodes>
 	<links>
 		<link enabled="true" id="0" sink_channel="Learner" sink_node_id="3" source_channel="Learner" source_node_id="2" />
@@ -1209,7 +1209,10 @@ AFgIAAAAQWRvcHRpb25yJAMAAEsBhnIlAwAAhXImAwAAdWJhdS4=
 cQKJWAoAAABhdXRvY29tbWl0cQOIWBIAAABjb250cm9sQXJlYVZpc2libGVxBIhYEwAAAHNhdmVk
 V2lkZ2V0R2VvbWV0cnlxBU5YEAAAAHNlbGVjdGVkX2xlYXJuZXJxBmNjb3B5cmVnCl9yZWNvbnN0
 cnVjdG9yCnEHY2J1aWx0aW5zCmxpc3QKcQhoCCmHcQlScQpLAGFYEQAAAHNlbGVjdGVkX3F1YW50
-aXR5cQtLAFgLAAAAX192ZXJzaW9uX19xDEsBWBAAAABjb250ZXh0X3NldHRpbmdzcQ1dcQ51Lg==
+aXR5cQtLAFgLAAAAX192ZXJzaW9uX19xDEsBWBAAAABjb250ZXh0X3NldHRpbmdzcQ1dcQ5jb3Jh
+bmdld2lkZ2V0LnNldHRpbmdzCkNvbnRleHQKcQ8pgXEQfXERKFgEAAAAdGltZXESR0HXhF/hhjVw
+WAYAAAB2YWx1ZXNxE31xFChYCQAAAHNlbGVjdGlvbnEVY2J1aWx0aW5zCnNldApxFl1xF4VxGFJx
+GWgMSwF1WAcAAABjbGFzc2VzcRpdcRsoWAEAAAAwcRxYAQAAADFxHWV1YmF1Lg==
 </properties>
 	</node_properties>
 	<session_state>
